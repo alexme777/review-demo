@@ -13,3 +13,15 @@
 body {
   background-color: #000;
 }
+
+#add-card {
+  display: none;
+}
+
+#profile {
+  display: none;
+}
+
+#big-size-image {
+  display: none;
+}
